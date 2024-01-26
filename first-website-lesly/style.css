@@ -1,0 +1,21 @@
+html{
+background-color: blanchedalmond;
+color:blue;
+
+}
+
+p {
+    color: cornflowerblue;
+    font-size: 30px;
+    background-color: #c0dab4;
+    border: 80px dashed orange;
+}
+
+h1 {
+    color: green;
+    text-decoration: underline;
+}
+
+
+
+/*the color blue under html ^^ is to change every other text to another color that you/
